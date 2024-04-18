@@ -1,5 +1,4 @@
 [
-  "food_list": [
     {
       "id": "5",
       "image": "apah",
@@ -248,5 +247,4 @@
       "price": 12,
       "description": "food with image"
     }
-  ]
 ]
